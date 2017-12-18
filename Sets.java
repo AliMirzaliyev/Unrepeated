@@ -1,7 +1,7 @@
 
 import java.util.*;
 
-public interface Sets {
+public class Sets {
 
     public static void main(String[] args) {
 
